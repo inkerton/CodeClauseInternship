@@ -7,4 +7,8 @@ Starting from <b>1-Aug'23 to 31-Aug'23</b>.<br>
 <ol>
   <li>Gender and Age Detection System</li>
   <li>Customer Segmentation System</li>
+
+ >python detect.py --image woman1.jpg
+    Gender: Female
+    Age: 38-43 years
 </ol>
