@@ -1,6 +1,6 @@
 # CodeClauseInternship
 A Repository made containing all the work for my Code Clause internship for the role of <b>Data Science Intern</b>.<br>
-Starting from 1-Aug'23 to 31-Aug'23.
+Starting from <b>1-Aug'23 to 31-Aug'23</b>.
 
 <h2>Allocated Projects</h2>
 <ol>
