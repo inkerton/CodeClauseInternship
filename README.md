@@ -8,3 +8,4 @@ Starting from <b>1-Aug'23 to 31-Aug'23</b>.<br>
   <li>Gender and Age Detection System</li>
   <li>Customer Segmentation System</li>
 </ol>
+<h2>Golden Projects</h2>
