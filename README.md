@@ -11,5 +11,5 @@ Starting from <b>1-Aug'23 to 31-Aug'23</b>.<br>
 <h2>Golden Projects</h2>
 <ol>
   <li>Web Traffic Times Series Forecasting</li>
-  <li></li>
+  <li>Flight Delay Prediction Model</li>
 </ol>
