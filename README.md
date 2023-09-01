@@ -12,7 +12,7 @@ Datasets used: [https://www.kaggle.com/](https://www.kaggle.com/)
 <h2>Golden Projects</h2>
 <ol>
   <li>Web Traffic Times Series Forecasting</li>
-  <li>Flight Delay Prediction Model</li>
+<!--   <li>Flight Delay Prediction Model</li> -->
 </ol>
 <!-- FORM  SUBMITTED
 fee💯--->
